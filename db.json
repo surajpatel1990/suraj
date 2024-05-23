@@ -1,4 +1,4 @@
-[
+{"returnstatus" : [
  {
  "accountId": "1000095966",
  "filingPeriod": "Stagger 3 – Quarterly (Apr to Mar)",
@@ -30,3 +30,4 @@
  "guid": "20231012T174836_9c15270e-7e64-4c68-94e1-3b1de2ac7a77"
  }
 ]
+}
